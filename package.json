@@ -1,9 +1,15 @@
 {
   "name": "react-i18next",
   "version": "1.0.0",
-  "description": " v10.4.2",
-  "keywords": [],
-  "homepage": "https://codesandbox.io/s/new",
+  "description": "react-i18next for internationalisation",
+  "license": "ISC",
+  "keywords": [
+    "react",
+    "internationalisation",
+    "language",
+    "translation",
+    "i18next"
+  ],
   "main": "src/index.js",
   "dependencies": {
     "i18next": "15.0.6",
