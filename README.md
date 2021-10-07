@@ -4,7 +4,7 @@
 
 This project demos multiple language support .
 You have to add translation strings to i18n.js, known as "resources" for the international languages you want to support.
-For more information on (npmjs.com)[https://www.npmjs.com/package/react-i18next]
+For more information on [npmjs.com](https://www.npmjs.com/package/react-i18next)
 
 Module imports look like this..
 
