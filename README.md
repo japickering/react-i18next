@@ -10,7 +10,7 @@ import LanguageDetector from "i18next-browser-languagedetector";
 import { initReactI18next } from "react-i18next";
 ```
 
-## Presets and user defined translations
+### Presets and user defined translations
 
 ```
 i18n
@@ -19,8 +19,12 @@ i18n
   .init({})
 ```
 
-## Runing the app
+### Running the app
 
 Clone this repository into a dev folder and cd into it.
-Enter ```npm i``` in your CLI or Terminal.
-Run the local server ```npm start```
+
+Install npm dependencies
+```npm i```
+
+Now run the local server
+```npm start```
