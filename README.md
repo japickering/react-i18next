@@ -25,16 +25,13 @@ i18n
       en: {
         translations: {
           "To get started, edit <1>src/App.js</1> and save to reload.":
-            "To get started, edit <1>src/App.js</1> and save to reload.",
-          "Welcome to React": "Welcome to React and react-i18next",
-          welcome: "Hello <br/> <strong>World</strong>"
+          "To get started, edit <1>src/App.js</1> and save to reload."
         }
       },
       de: {
         translations: {
           "To get started, edit <1>src/App.js</1> and save to reload.":
-            "Starte in dem du, <1>src/App.js</1> editierst und speicherst.",
-          "Welcome to React": "Willkommen bei React und react-i18next"
+          "Starte in dem du, <1>src/App.js</1> editierst und speicherst."
         }
       }
     },
@@ -43,7 +40,7 @@ i18n
 
 ### Running the app
 
-Clone this repository into a dev folder and cd into it.
+Clone this repository into your working dev folder.
 
 Install npm dependencies
 `npm i`
